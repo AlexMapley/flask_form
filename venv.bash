@@ -1,0 +1,5 @@
+rm -rf flask
+virtualenv flask
+cd flask
+source bin/activate
+pip install flask
