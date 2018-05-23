@@ -1,6 +1,4 @@
-# netviewer
-
-Currently no direction in this project, just an exploration in python/flask.
+# Flask Form
 
 # Setup
 - Run  `bash virtualenv.bash` to set up the python environment
