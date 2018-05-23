@@ -44,10 +44,6 @@ def resume_form():
 
     return render_template('resume_form.html', form=form)
 
-@app.route("/page2")
-def page2():
-    return render_template('page2.html')
-
 
 
 if __name__ == "__main__":
